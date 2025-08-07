@@ -51,6 +51,6 @@
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [youremail@example.com](mailto:fadu0865@gmail.com)  
+- 📧 **Email:** [fadu0865@gmail.com](mailto:fadu0865@gmail.com)  
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammed-fadil-58bb48319)  
 
